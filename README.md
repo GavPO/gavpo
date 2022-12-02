@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavin Orlich</h1>
 <h3 align="center">A Full-Stack Web Developer from Kansas City, Missouri!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavpo&label=Profile%20views:&color=993bd8&style=flat-square" alt="gavpo" /> </p>
-
 - 🔭 I’m currently working on **A cool text-based game!**
 
 - 🌱 I’m currently learning **C#, Java**
@@ -18,6 +16,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view](https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view)
 
 - ⚡ Fun fact **I want to live in Alaska! ❄️**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavpo&label=Profile%20views:&color=993bd8&style=flat-square" alt="gavpo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
