@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gavinporlich@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view](https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view)
+[//]: # "- 📄 Know about my experiences [https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view](https://drive.google.com/file/d/1U3HrnFxIOWeEYCXyFNh5z22zJd23fE7I/view)"
 
 - ⚡ Fun fact **I want to live in Alaska! ❄️**
 
